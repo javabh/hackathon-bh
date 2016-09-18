@@ -6,7 +6,7 @@ O custo de cada inscrição será  uma doação para uma instituição de carida
 
 O credenciamento deve ser realizado na sexta-feira, dia 21 de outubro de 2016. Candidatos que não puderem comparecer neste dia, deverão enviar um email para javabhz@gmail.com ou entrar em contato pelo telefone (31) 9 911498-52 (Falar com Rangel Soares);
 
-Cada participante deverá integrar um time de até 3 humanos, também será permitido o uso de até 1 robô por time. A formação dos times será realizada na sexta-feira, dia 21 de outubro de 2016. Os participantes podem escolher o time livremente;
+Cada participante deverá integrar um time de até 3 pessoas, também será permitido o uso de até 1 robô por time. A formação dos times será realizada na sexta-feira, dia 21 de outubro de 2016. Os participantes podem escolher o time livremente;
 
 Cada time terá um mentor cedido pela organização durante todo o evento. O mentor de cada time será apresentado na sexta-feira, dia 21 de outubro de 2016;
 
