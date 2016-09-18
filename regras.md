@@ -26,6 +26,6 @@ O almoço poderá sera realizado em horario especifiço conforme a agenda;
 
 Cada participante tem a liberdade de sair e retornar ao evento quando desejar desde que seja acordado com a equipe e com o mentor;
 
-O desenvolvimento deverá ser submetido para avaliação no sábado, dia 20 de agosto de 2016 às 19:00h;
+O desenvolvimento deverá ser submetido para avaliação no sábado, dia 20 de outubro de 2016 às 19:00h;
 
 Cada equipe deverá apresentar a ideia e o que foi desenvolvido, no sábado a partir de 20:00h. Cada equipe terá um pitch de 3 minutos e a ordem de apresentação será divulgada às 19:00h.
